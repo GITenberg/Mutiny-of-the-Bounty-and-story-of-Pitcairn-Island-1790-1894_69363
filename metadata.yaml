@@ -1,0 +1,33 @@
+_repo: Mutiny-of-the-Bounty-and-story-of-Pitcairn-Island-1790-1894_69363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Rosalind Amelia
+    birthdate: 1853
+    deathdate: 1924
+    gutenberg_agent_id: '55226'
+    url: http://www.gutenberg.org/2009/agents/55226
+    wikipedia: https://en.wikipedia.org/wiki/Rosalind_Amelia_Young
+description: ''
+gutenberg_issued: '2022-11-16'
+identifiers:
+  gutenberg: '69363'
+language: en
+pgterms:marc904: https://archive.org/details/mutinyofbountyst00youn
+pgterms:marc905: 20220704010444young
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Fay Dunn, Fiona Holmes and the Online Distributed Proofreading Team
+  at http://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.
+publication_note: 'United States: Pacific Press Publishing Assn.,1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bounty Mutiny, 1789'
+- !lcsh 'Pitcairn Island'
+- !lcc 'DU'
+- GITenberg
+title: Mutiny of the Bounty and story of Pitcairn Island, 1790-1894
+url: http://www.gutenberg.org/ebooks/69363
