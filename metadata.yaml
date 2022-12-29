@@ -1,5 +1,8 @@
 _repo: Mutiny-of-the-Bounty-and-story-of-Pitcairn-Island-1790-1894_69363
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69363-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Rosalind Amelia
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55226
     wikipedia: https://en.wikipedia.org/wiki/Rosalind_Amelia_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69363#Mutiny-of-the-Bounty-and-story-of-Pitcairn-Island-1790-1894
 gutenberg_issued: '2022-11-16'
 identifiers:
   gutenberg: '69363'
